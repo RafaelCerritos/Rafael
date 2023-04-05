@@ -1,0 +1,101 @@
+.lista {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin-top: 10px;
+    font-family: arial;
+}
+
+.texto1 ul,.texto2 ul {
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    gap: 50px;
+    margin: 50px;
+    align-items: center;
+    margin-top: 0%;
+    font-family: arial;
+}
+
+.logo1 {
+    width: 150px;
+    height: auto;
+}
+
+.tema {
+    text-align: center;
+    font-family: arial ;
+}
+
+.tema1 {
+    font-family: arial black;
+    font-size: 20px;
+}
+.parrafo {
+    font-size: 15px;
+    color: gray;
+}
+
+.boton2,.boton1 {
+    background: blue;
+    font-size: 2px;
+    color: white;
+    border: none;
+    border-radius:8px;
+    height: 34px;
+    font-family: arial;
+    font-size: 10px;
+
+}
+
+.boton1 {
+    font-size: 15px;
+    padding: 10px 20px;
+}
+
+.boton2 {
+    padding: 10px 30px;
+    font-size: 15px;
+    margin:20px;
+    height: 50px;
+}
+
+.lista1 {
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 89, 255);
+    font-family: arial;
+}
+
+.hola1,.hola2 {
+    display: flex;
+    gap: 20px;
+    font-size: 15px;
+    margin-right: 12px;
+}
+.card {
+    display: flex;
+    width: 15px;
+    color:rgb(0, 89, 255);
+    height: 15px;
+    margin: auto;
+    gap: 50px;
+    margin-left: 50px;;
+}
+.rocket {
+    display: flex;
+    width: 15px;
+    color:rgb(0, 89, 255);
+    height: 15px;
+    margin: auto;
+    gap: 50px;
+    margin-left: 50px;;
+}
+
+.imagen {
+    border-radius:10px;
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 100px;
+}
